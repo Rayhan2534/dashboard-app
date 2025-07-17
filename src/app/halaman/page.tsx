@@ -20,7 +20,7 @@ export default function LoginPage() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-100 px-4">
       <div className="mb-6">
-        <h1 className="text-5xl font-extrabold text-black">BPPN.STORE</h1>
+        <h1 className="text-5xl font-extrabold text-black">BPPN SUPER.STORE</h1>
       </div>
 
       <div className="bg-blue-500 shadow-md rounded-md p-6 w-full max-w-sm">
